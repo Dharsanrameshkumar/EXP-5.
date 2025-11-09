@@ -70,7 +70,8 @@ When revealed, the contract verifies correctness but keeps votes anonymous.
 
 Final result is publicly verifiable without exposing individual votes.
 
-![Uploading 3.png…]()
+<img width="1920" height="866" alt="3" src="https://github.com/user-attachments/assets/48f586b9-7b5d-4600-b973-462dbcfdd34d" />
+
 
 
 # High-Level Overview:
